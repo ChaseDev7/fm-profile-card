@@ -12,10 +12,10 @@
 .container {
   display: flex;
   align-items: center;
-  margin: 50px;
+  margin: 100px 0 50px 0;
   flex-direction: column;
   background-color: white;
-  width: 30%;
+  width: 400px;
   border-radius: 20px;
   position: relative;
 }
